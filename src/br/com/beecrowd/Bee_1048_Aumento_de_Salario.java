@@ -1,9 +1,11 @@
+package br.com.beecrowd;
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
 public class Bee_1048_Aumento_de_Salario {
  
-    public static void main(String[] args) {
+	public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         DecimalFormat decimal = new DecimalFormat("0.00");
         

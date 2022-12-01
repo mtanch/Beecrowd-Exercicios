@@ -1,3 +1,5 @@
+package br.com.beecrowd;
+
 import java.util.Scanner;
 public class Bee_1050_DDD
 {
